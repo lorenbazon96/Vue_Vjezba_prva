@@ -86,7 +86,6 @@ export default {
   margin-top: 60px;
 }
 
-/* Light tema (default) */
 .blok {
   background-color: rgb(219, 219, 219);
   color: rgb(26, 26, 26);
@@ -95,7 +94,6 @@ export default {
   border-radius: 8px;
 }
 
-/* Dark tema */
 .dark .blok {
   background-color: #111;
   color: white;
